@@ -1,0 +1,1 @@
+{"1000":{"id":1000,"bookName":"A Tale of Two Cities","authorName":"Charles Dicknes","edition":"New Edition","publication":"stephen","volume":2,"availability":true},"1001":{"id":1001,"bookName":"A Tale of Two Cities","authorName":"Kishore","edition":"New Edition","publication":"stephen","volume":2,"availability":true}}
